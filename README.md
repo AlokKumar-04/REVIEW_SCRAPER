@@ -4,5 +4,6 @@ This is a simple web application built with Flask that allows users to search fo
 
 
 Usage:
+
 Enter a search query in the search bar and click the "Search" button.
 The application will scrape review data from Flipkart and display the results in a table.
